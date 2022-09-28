@@ -1,0 +1,629 @@
+,french,latin,english,id
+0,Accenteur à gorge noire,Prunella atrogularis,Black-throated Accentor,accenteur.a.gorge.noire
+1,Accenteur alpin,Prunella collaris,Alpine Accentor,accenteur.alpin
+2,Accenteur mouchet,Prunella modularis,Dunnock,accenteur.mouchet
+3,Agrobate roux,Cercotrichas galactotes,Rufous-tailed Scrub Robin,agrobate.roux
+4,Aigle botté,Hieraaetus pennatus,Booted Eagle,aigle.botte
+5,Aigle criard,Clanga clanga,Greater Spotted Eagle,aigle.criard
+6,Aigle de Bonelli,Aquila fasciata,Bonelli's Eagle,aigle.de.bonelli
+7,Aigle des steppes,Aquila nipalensis,Steppe Eagle,aigle.des.steppes
+8,Aigle ibérique,Aquila adalberti,Spanish Imperial Eagle,aigle.iberique
+9,Aigle impérial,Aquila heliaca,Eastern Imperial Eagle,aigle.imperial
+10,Aigle pomarin,Clanga pomarina,Lesser Spotted Eagle,aigle.pomarin
+11,Aigle royal,Aquila chrysaetos,Golden Eagle,aigle.royal
+12,Aigrette des récifs,Egretta gularis,Western Reef Heron,aigrette.des.recifs
+13,Aigrette garzette,Egretta garzetta,Little Egret,aigrette.garzette
+14,Albatros à nez jaune,Thalassarche chlororhynchos,Atlantic Yellow-nosed Albatross,albatros.a.nez.jaune
+15,Albatros à sourcils noirs,Thalassarche melanophris,Black-browed Albatross,albatros.a.sourcils.noirs
+16,Albatros hurleur,Diomedea exulans,Wandering Albatross,albatros.hurleur
+17,Alouette calandre,Melanocorypha calandra,Calandra Lark,alouette.calandre
+18,Alouette calandrelle,Calandrella brachydactyla,Greater Short-toed Lark,alouette.calandrelle
+19,Alouette des champs,Alauda arvensis,Eurasian Skylark,alouette.des.champs
+20,Alouette haussecol,Eremophila alpestris,Horned Lark,alouette.haussecol
+21,Alouette lulu,Lullula arborea,Woodlark,alouette.lulu
+22,Alouette monticole,Melanocorypha bimaculata,Bimaculated Lark,alouette.monticole
+23,Alouette pispolette,Alaudala rufescens,Mediterranean Short-toed Lark,alouette.pispolette
+24,Ammomane élégante,Ammomanes cinctura,Bar-tailed Lark,ammomane.elegante
+25,Arlequin plongeur,Histrionicus histrionicus,Harlequin Duck,arlequin.plongeur
+26,Autour des palombes,Accipiter gentilis,Northern Goshawk,autour.des.palombes
+27,Avocette élégante,Recurvirostra avosetta,Pied Avocet,avocette.elegante
+28,Balbuzard pêcheur,Pandion haliaetus,Osprey,balbuzard.pecheur
+29,Barge à queue noire,Limosa limosa,Black-tailed Godwit,barge.a.queue.noire
+30,Barge rousse,Limosa lapponica,Bar-tailed Godwit,barge.rousse
+31,Bartramie des champs,Bartramia longicauda,Upland Sandpiper,bartramie.des.champs
+32,Bec-croisé bifascié,Loxia leucoptera,Two-barred Crossbill,bec-croise.bifascie
+33,Bec-croisé des sapins,Loxia curvirostra,Red Crossbill,bec-croise.des.sapins
+34,Bec-croisé perroquet,Loxia pytyopsittacus,Parrot Crossbill,bec-croise.perroquet
+35,Bécasse d'Amérique,Scolopax minor,American Woodcock,becasse.d.amerique
+36,Bécasse des bois,Scolopax rusticola,Eurasian Woodcock,becasse.des.bois
+37,Bécasseau à cou roux,Calidris ruficollis,Red-necked Stint,becasseau.a.cou.roux
+38,Bécasseau à échasses,Calidris himantopus,Stilt Sandpiper,becasseau.a.echasses
+39,Bécasseau à longs doigts,Calidris subminuta,Long-toed Stint,becasseau.a.longs.doigts
+40,Bécasseau à queue pointue,Calidris acuminata,Sharp-tailed Sandpiper,becasseau.a.queue.pointue
+41,Bécasseau cocorli,Calidris ferruginea,Curlew Sandpiper,becasseau.cocorli
+42,Bécasseau d'Alaska,Calidris mauri,Western Sandpiper,becasseau.d.alaska
+43,Bécasseau de Baird,Calidris bairdii,Baird's Sandpiper,becasseau.de.baird
+44,Bécasseau de Bonaparte,Calidris fuscicollis,White-rumped Sandpiper,becasseau.de.bonaparte
+45,Bécasseau de Temminck,Calidris temminckii,Temminck's Stint,becasseau.de.temminck
+46,Bécasseau falcinelle,Calidris falcinellus,Broad-billed Sandpiper,becasseau.falcinelle
+47,Bécasseau maubèche,Calidris canutus,Red Knot,becasseau.maubeche
+48,Bécasseau minuscule,Calidris minutilla,Least Sandpiper,becasseau.minuscule
+49,Bécasseau minute,Calidris minuta,Little Stint,becasseau.minute
+50,Bécasseau rousset,Calidris subruficollis,Buff-breasted Sandpiper,becasseau.rousset
+51,Bécasseau sanderling,Calidris alba,Sanderling,becasseau.sanderling
+52,Bécasseau semipalmé,Calidris pusilla,Semipalmated Sandpiper,becasseau.semipalme
+53,Bécasseau tacheté,Calidris melanotos,Pectoral Sandpiper,becasseau.tachete
+54,Bécasseau variable,Calidris alpina,Dunlin,becasseau.variable
+55,Bécasseau violet,Calidris maritima,Purple Sandpiper,becasseau.violet
+56,Bécassin à bec court,Limnodromus griseus,Short-billed Dowitcher,becassin.a.bec.court
+57,Bécassin à long bec,Limnodromus scolopaceus,Long-billed Dowitcher,becassin.a.long.bec
+58,Bécassine de Wilson,Gallinago delicata,Wilson's Snipe,becassine.de.wilson
+59,Bécassine des marais,Gallinago gallinago,Common Snipe,becassine.des.marais
+60,Bécassine double,Gallinago media,Great Snipe,becassine.double
+61,Bécassine sourde,Lymnocryptes minimus,Jack Snipe,becassine.sourde
+62,Bergeronnette citrine,Motacilla citreola,Citrine Wagtail,bergeronnette.citrine
+63,Bergeronnette de Béringie,Motacilla tschutschensis,Eastern Yellow Wagtail,bergeronnette.de.beringie
+64,Bergeronnette des ruisseaux,Motacilla cinerea,Grey Wagtail,bergeronnette.des.ruisseaux
+65,Bergeronnette grise,Motacilla alba,White Wagtail,bergeronnette.grise
+66,Bergeronnette printanière,Motacilla flava,Western Yellow Wagtail,bergeronnette.printaniere
+67,Bernache à cou roux,Branta ruficollis,Red-breasted Goose,bernache.a.cou.roux
+68,Bernache cravant,Branta bernicla,Brant Goose,bernache.cravant
+69,Bernache du Canada,Branta canadensis,Canada Goose,bernache.du.canada
+70,Bernache nonnette,Branta leucopsis,Barnacle Goose,bernache.nonnette
+71,Bihoreau gris,Nycticorax nycticorax,Black-crowned Night Heron,bihoreau.gris
+72,Blongios nain,Ixobrychus minutus,Little Bittern,blongios.nain
+73,Bondrée apivore,Pernis apivorus,European Honey Buzzard,bondree.apivore
+74,Bouscarle de Cetti,Cettia cetti,Cetti's Warbler,bouscarle.de.cetti
+75,Bouvreuil pivoine,Pyrrhula pyrrhula,Eurasian Bullfinch,bouvreuil.pivoine
+76,Bruant à calotte blanche,Emberiza leucocephalos,Pine Bunting,bruant.a.calotte.blanche
+77,Bruant à couronne blanche,Zonotrichia leucophrys,White-crowned Sparrow,bruant.a.couronne.blanche
+78,Bruant à gorge blanche,Zonotrichia albicollis,White-throated Sparrow,bruant.a.gorge.blanche
+79,Bruant à sourcils jaunes,Emberiza chrysophrys,Yellow-browed Bunting,bruant.a.sourcils.jaunes
+80,Bruant à tête rousse,Emberiza bruniceps,Red-headed Bunting,bruant.a.tete.rousse
+81,Bruant auréole,Emberiza aureola,Yellow-breasted Bunting,bruant.aureole
+82,Bruant cendrillard,Emberiza caesia,Cretzschmar's Bunting,bruant.cendrillard
+83,Bruant de Pallas,Emberiza pallasi,Pallas's Reed Bunting,bruant.de.pallas
+84,Bruant des neiges,Plectrophenax nivalis,Snow Bunting,bruant.des.neiges
+85,Bruant des roseaux,Emberiza schoeniclus,Common Reed Bunting,bruant.des.roseaux
+86,Bruant fou,Emberiza cia,Rock Bunting,bruant.fou
+87,Bruant jaune,Emberiza citrinella,Yellowhammer,bruant.jaune
+88,Bruant lapon,Calcarius lapponicus,Lapland Longspur,bruant.lapon
+89,Bruant masqué,Emberiza spodocephala,Black-faced Bunting,bruant.masque
+90,Bruant mélanocéphale,Emberiza melanocephala,Black-headed Bunting,bruant.melanocephale
+91,Bruant nain,Emberiza pusilla,Little Bunting,bruant.nain
+92,Bruant ortolan,Emberiza hortulana,Ortolan Bunting,bruant.ortolan
+93,Bruant proyer,Emberiza calandra,Corn Bunting,bruant.proyer
+94,Bruant roux,Emberiza rutila,Chestnut Bunting,bruant.roux
+95,Bruant rustique,Emberiza rustica,Rustic Bunting,bruant.rustique
+96,Bruant zizi,Emberiza cirlus,Cirl Bunting,bruant.zizi
+97,Busard cendré,Circus pygargus,Montagu's Harrier,busard.cendre
+98,Busard des roseaux,Circus aeruginosus,Western Marsh Harrier,busard.des.roseaux
+99,Busard pâle,Circus macrourus,Pallid Harrier,busard.pale
+100,Busard Saint-Martin,Circus cyaneus,Hen Harrier,busard.saint-martin
+101,Buse féroce,Buteo rufinus,Long-legged Buzzard,buse.feroce
+102,Buse pattue,Buteo lagopus,Rough-legged Buzzard,buse.pattue
+103,Buse variable,Buteo buteo,Common Buzzard,buse.variable
+104,Butor étoilé,Botaurus stellaris,Eurasian Bittern,butor.etoile
+105,Caille des blés,Coturnix coturnix,Common Quail,caille.des.bles
+106,Canard à front blanc,Mareca americana,American Wigeon,canard.a.front.blanc
+107,Canard chipeau,Mareca strepera,Gadwall,canard.chipeau
+108,Canard colvert,Anas platyrhynchos,Mallard,canard.colvert
+109,Canard mandarin,Aix galericulata,Mandarin Duck,canard.mandarin
+110,Canard noir,Anas rubripes,American Black Duck,canard.noir
+111,Canard pilet,Anas acuta,Northern Pintail,canard.pilet
+112,Canard siffleur,Mareca penelope,Eurasian Wigeon,canard.siffleur
+113,Canard souchet,Spatula clypeata,Northern Shoveler,canard.souchet
+114,Capucin bec-de-plomb,Euodice malabarica,Indian Silverbill,capucin.bec-de-plomb
+115,Cardinal à poitrine rose,Pheucticus ludovicianus,Rose-breasted Grosbeak,cardinal.a.poitrine.rose
+116,Cassenoix moucheté,Nucifraga caryocatactes,Spotted Nutcracker,cassenoix.mouchete
+117,Chardonneret élégant,Carduelis carduelis,European Goldfinch,chardonneret.elegant
+118,Chevalier à pattes jaunes,Tringa flavipes,Lesser Yellowlegs,chevalier.a.pattes.jaunes
+119,Chevalier aboyeur,Tringa nebularia,Common Greenshank,chevalier.aboyeur
+120,Chevalier arlequin,Tringa erythropus,Spotted Redshank,chevalier.arlequin
+121,Chevalier bargette,Xenus cinereus,Terek Sandpiper,chevalier.bargette
+122,Chevalier criard,Tringa melanoleuca,Greater Yellowlegs,chevalier.criard
+123,Chevalier culblanc,Tringa ochropus,Green Sandpiper,chevalier.culblanc
+124,Chevalier gambette,Tringa totanus,Common Redshank,chevalier.gambette
+125,Chevalier grivelé,Actitis macularius,Spotted Sandpiper,chevalier.grivele
+126,Chevalier guignette,Actitis hypoleucos,Common Sandpiper,chevalier.guignette
+127,Chevalier semipalmé,Tringa semipalmata,Willet,chevalier.semipalme
+128,Chevalier solitaire,Tringa solitaria,Solitary Sandpiper,chevalier.solitaire
+129,Chevalier stagnatile,Tringa stagnatilis,Marsh Sandpiper,chevalier.stagnatile
+130,Chevalier sylvain,Tringa glareola,Wood Sandpiper,chevalier.sylvain
+131,Chevêche d'Athéna,Athene noctua,Little Owl,cheveche.d.athena
+132,Chevêchette d'Europe,Glaucidium passerinum,Eurasian Pygmy Owl,chevechette.d.europe
+133,Chocard à bec jaune,Pyrrhocorax graculus,Alpine Chough,chocard.a.bec.jaune
+134,Choucas de Daourie,Coloeus dauuricus,Daurian Jackdaw,choucas.de.daourie
+135,Choucas des tours,Coloeus monedula,Western Jackdaw,choucas.des.tours
+136,Chouette de Tengmalm,Aegolius funereus,Boreal Owl,chouette.de.tengmalm
+137,Chouette épervière,Surnia ulula,Northern Hawk-Owl,chouette.eperviere
+138,Chouette hulotte,Strix aluco,Tawny Owl,chouette.hulotte
+139,Cigogne blanche,Ciconia ciconia,White Stork,cigogne.blanche
+140,Cigogne noire,Ciconia nigra,Black Stork,cigogne.noire
+141,Cincle plongeur,Cinclus cinclus,White-throated Dipper,cincle.plongeur
+142,Circaète Jean-le-Blanc,Circaetus gallicus,Short-toed Snake Eagle,circaete.jean-le-blanc
+143,Cisticole des joncs,Cisticola juncidis,Zitting Cisticola,cisticole.des.joncs
+144,Cochevis de Thékla,Galerida theklae,Thekla's Lark,cochevis.de.thekla
+145,Cochevis huppé,Galerida cristata,Crested Lark,cochevis.huppe
+146,Colin de Californie,Callipepla californica,California Quail,colin.de.californie
+147,Colin de Virginie,Colinus virginianus,Northern Bobwhite,colin.de.virginie
+148,Combattant varié,Calidris pugnax,Ruff,combattant.varie
+149,Corbeau à queue courte,Corvus rhipidurus,Fan-tailed Raven,corbeau.a.queue.courte
+150,Corbeau freux,Corvus frugilegus,Rook,corbeau.freux
+151,Cormoran à aigrettes,Nannopterum auritum,Double-crested Cormorant,cormoran.a.aigrettes
+152,Cormoran huppé,Gulosus aristotelis,European Shag,cormoran.huppe
+153,Cormoran pygmée,Microcarbo pygmaeus,Pygmy Cormorant,cormoran.pygmee
+154,Corneille mantelée,Corvus cornix,Hooded Crow,corneille.mantelee
+155,Corneille noire,Corvus corone,Carrion Crow,corneille.noire
+156,Coucou geai,Clamator glandarius,Great Spotted Cuckoo,coucou.geai
+157,Coucou gris,Cuculus canorus,Common Cuckoo,coucou.gris
+158,Coulicou à bec jaune,Coccyzus americanus,Yellow-billed Cuckoo,coulicou.a.bec.jaune
+159,Coulicou à bec noir,Coccyzus erythropthalmus,Black-billed Cuckoo,coulicou.a.bec.noir
+160,Courlis à bec grêle,Numenius tenuirostris,Slender-billed Curlew,courlis.a.bec.grele
+161,Courlis cendré,Numenius arquata,Eurasian Curlew,courlis.cendre
+162,Courlis corlieu,Numenius phaeopus,Eurasian Whimbrel,courlis.corlieu
+163,Courlis hudsonien,Numenius hudsonicus,Hudsonian Whimbrel,courlis.hudsonien
+164,Courvite isabelle,Cursorius cursor,Cream-colored Courser,courvite.isabelle
+165,Crabier chevelu,Ardeola ralloides,Squacco Heron,crabier.chevelu
+166,Crave à bec rouge,Pyrrhocorax pyrrhocorax,Red-billed Chough,crave.a.bec.rouge
+167,Cygne chanteur,Cygnus cygnus,Whooper Swan,cygne.chanteur
+168,Cygne de Bewick,Cygnus columbianus,Tundra Swan,cygne.de.bewick
+169,Cygne noir,Cygnus atratus,Black Swan,cygne.noir
+170,Cygne tuberculé,Cygnus olor,Mute Swan,cygne.tubercule
+171,Damier du Cap,Daption capense,Cape Petrel,damier.du.cap
+172,Dendrocygne fauve,Dendrocygna bicolor,Fulvous Whistling Duck,dendrocygne.fauve
+173,Durbec des sapins,Pinicola enucleator,Pine Grosbeak,durbec.des.sapins
+174,Échasse blanche,Himantopus himantopus,Black-winged Stilt,echasse.blanche
+175,Effraie des clochers,Tyto alba,Western Barn Owl,effraie.des.clochers
+176,Eider à duvet,Somateria mollissima,Common Eider,eider.a.duvet
+177,Eider à tête grise,Somateria spectabilis,King Eider,eider.a.tete.grise
+178,Eider de Steller,Polysticta stelleri,Steller's Eider,eider.de.steller
+179,Élanion blanc,Elanus caeruleus,Black-winged Kite,elanion.blanc
+180,Engoulevent à collier roux,Caprimulgus ruficollis,Red-necked Nightjar,engoulevent.a.collier.roux
+181,Engoulevent d'Amérique,Chordeiles minor,Common Nighthawk,engoulevent.d.amerique
+182,Engoulevent d'Europe,Caprimulgus europaeus,European Nightjar,engoulevent.d.europe
+183,Épervier d'Europe,Accipiter nisus,Eurasian Sparrowhawk,epervier.d.europe
+184,Érismature à tête blanche,Oxyura leucocephala,White-headed Duck,erismature.a.tete.blanche
+185,Érismature rousse,Oxyura jamaicensis,Ruddy Duck,erismature.rousse
+186,Étourneau roselin,Pastor roseus,Rosy Starling,etourneau.roselin
+187,Étourneau sansonnet,Sturnus vulgaris,Common Starling,etourneau.sansonnet
+188,Étourneau unicolore,Sturnus unicolor,Spotless Starling,etourneau.unicolore
+189,Faisan de Colchide,Phasianus colchicus,Common Pheasant,faisan.de.colchide
+190,Faisan vénéré,Syrmaticus reevesii,Reeves's Pheasant,faisan.venere
+191,Faucon concolore,Falco concolor,Sooty Falcon,faucon.concolore
+192,Faucon crécerelle,Falco tinnunculus,Common Kestrel,faucon.crecerelle
+193,Faucon crécerellette,Falco naumanni,Lesser Kestrel,faucon.crecerellette
+194,Faucon d'Éléonore,Falco eleonorae,Eleonora's Falcon,faucon.d.eleonore
+195,Faucon de l'Amour,Falco amurensis,Amur Falcon,faucon.de.l.amour
+196,Faucon émerillon,Falco columbarius,Merlin,faucon.emerillon
+197,Faucon gerfaut,Falco rusticolus,Gyrfalcon,faucon.gerfaut
+198,Faucon hobereau,Falco subbuteo,Eurasian Hobby,faucon.hobereau
+199,Faucon kobez,Falco vespertinus,Red-footed Falcon,faucon.kobez
+200,Faucon lanier,Falco biarmicus,Lanner Falcon,faucon.lanier
+201,Faucon pèlerin,Falco peregrinus,Peregrine Falcon,faucon.pelerin
+202,Faucon sacre,Falco cherrug,Saker Falcon,faucon.sacre
+203,Fauvette à lunettes,Curruca conspicillata,Spectacled Warbler,fauvette.a.lunettes
+204,Fauvette à tête noire,Sylvia atricapilla,Eurasian Blackcap,fauvette.a.tete.noire
+205,Fauvette babillarde,Curruca curruca,Lesser Whitethroat,fauvette.babillarde
+206,Fauvette de l'Atlas,Curruca deserticola,Tristram's Warbler,fauvette.de.l.atlas
+207,Fauvette de Moltoni,Curruca subalpina,Moltoni's Warbler,fauvette.de.moltoni
+208,Fauvette de Rüppell,Curruca ruppeli,Rüppell's Warbler,fauvette.de.ruppell
+209,Fauvette des Balkans,Curruca cantillans,Eastern Subalpine Warbler,fauvette.des.balkans
+210,Fauvette des jardins,Sylvia borin,Garden Warbler,fauvette.des.jardins
+211,Fauvette épervière,Curruca nisoria,Barred Warbler,fauvette.eperviere
+212,Fauvette grisette,Curruca communis,Common Whitethroat,fauvette.grisette
+213,Fauvette mélanocéphale,Curruca melanocephala,Sardinian Warbler,fauvette.melanocephale
+214,Fauvette naine,Curruca nana,Asian Desert Warbler,fauvette.naine
+215,Fauvette orphéane,Curruca crassirostris,Eastern Orphean Warbler,fauvette.orpheane
+216,Fauvette orphée,Curruca hortensis,Western Orphean Warbler,fauvette.orphee
+217,Fauvette passerinette,Curruca iberiae,Western Subalpine Warbler,fauvette.passerinette
+218,Fauvette pitchou,Curruca undata,Dartford Warbler,fauvette.pitchou
+219,Fauvette sarde,Curruca sarda,Marmora's Warbler,fauvette.sarde
+220,Flamant nain,Phoeniconaias minor,Lesser Flamingo,flamant.nain
+221,Flamant rose,Phoenicopterus roseus,Greater Flamingo,flamant.rose
+222,Fou à pieds rouges,Sula sula,Red-footed Booby,fou.a.pieds.rouges
+223,Fou brun,Sula leucogaster,Brown Booby,fou.brun
+224,Fou de Bassan,Morus bassanus,Northern Gannet,fou.de.bassan
+225,Fou masqué,Sula dactylatra,Masked Booby,fou.masque
+226,Foulque caronculée,Fulica cristata,Red-knobbed Coot,foulque.caronculee
+227,Foulque macroule,Fulica atra,Eurasian Coot,foulque.macroule
+228,Frégate superbe,Fregata magnificens,Magnificent Frigatebird,fregate.superbe
+229,Fuligule à bec cerclé,Aythya collaris,Ring-necked Duck,fuligule.a.bec.cercle
+230,Fuligule à tête noire,Aythya affinis,Lesser Scaup,fuligule.a.tete.noire
+231,Fuligule à tête rouge,Aythya americana,Redhead,fuligule.a.tete.rouge
+232,Fuligule milouin,Aythya ferina,Common Pochard,fuligule.milouin
+233,Fuligule milouinan,Aythya marila,Greater Scaup,fuligule.milouinan
+234,Fuligule morillon,Aythya fuligula,Tufted Duck,fuligule.morillon
+235,Fuligule nyroca,Aythya nyroca,Ferruginous Duck,fuligule.nyroca
+236,Fulmar boréal,Fulmarus glacialis,Northern Fulmar,fulmar.boreal
+237,Gallinule poule-d'eau,Gallinula chloropus,Common Moorhen,gallinule.poule-d.eau
+238,Ganga cata,Pterocles alchata,Pin-tailed Sandgrouse,ganga.cata
+239,Garrot à oeil d'or,Bucephala clangula,Common Goldeneye,garrot.a.oeil.d.or
+240,Garrot albéole,Bucephala albeola,Bufflehead,garrot.albeole
+241,Garrot d'Islande,Bucephala islandica,Barrow's Goldeneye,garrot.d.islande
+242,Geai des chênes,Garrulus glandarius,Eurasian Jay,geai.des.chenes
+243,Gélinotte des bois,Tetrastes bonasia,Hazel Grouse,gelinotte.des.bois
+244,Glaréole à ailes noires,Glareola nordmanni,Black-winged Pratincole,glareole.a.ailes.noires
+245,Glaréole à collier,Glareola pratincola,Collared Pratincole,glareole.a.collier
+246,Glaréole orientale,Glareola maldivarum,Oriental Pratincole,glareole.orientale
+247,Gobemouche à collier,Ficedula albicollis,Collared Flycatcher,gobemouche.a.collier
+248,Gobemouche à demi-collier,Ficedula semitorquata,Semicollared Flycatcher,gobemouche.a.demi-collier
+249,Gobemouche de la taïga,Ficedula albicilla,Taiga Flycatcher,gobemouche.de.la.taiga
+250,Gobemouche gris,Muscicapa striata,Spotted Flycatcher,gobemouche.gris
+251,Gobemouche nain,Ficedula parva,Red-breasted Flycatcher,gobemouche.nain
+252,Gobemouche noir,Ficedula hypoleuca,European Pied Flycatcher,gobemouche.noir
+253,Goéland à ailes blanches,Larus glaucoides,Iceland Gull,goeland.a.ailes.blanches
+254,Goéland à bec cerclé,Larus delawarensis,Ring-billed Gull,goeland.a.bec.cercle
+255,Goéland argenté,Larus argentatus,European Herring Gull,goeland.argente
+256,Goéland bourgmestre,Larus hyperboreus,Glaucous Gull,goeland.bourgmestre
+257,Goéland brun,Larus fuscus,Lesser Black-backed Gull,goeland.brun
+258,Goéland cendré,Larus canus,Common Gull,goeland.cendre
+259,Goéland d'Amérique,Larus smithsonianus,American Herring Gull,goeland.d.amerique
+260,Goéland d'Audouin,Ichthyaetus audouinii,Audouin's Gull,goeland.d.audouin
+261,Goéland de la Véga,Larus vegae,Vega Gull,goeland.de.la.vega
+262,Goéland dominicain,Larus dominicanus,Kelp Gull,goeland.dominicain
+263,Goéland ichthyaète,Ichthyaetus ichthyaetus,Pallas's Gull,goeland.ichthyaete
+264,Goéland leucophée,Larus michahellis,Yellow-legged Gull,goeland.leucophee
+265,Goéland marin,Larus marinus,Great Black-backed Gull,goeland.marin
+266,Goéland pontique,Larus cachinnans,Caspian Gull,goeland.pontique
+267,Goéland railleur,Chroicocephalus genei,Slender-billed Gull,goeland.railleur
+268,Goglu des prés,Dolichonyx oryzivorus,Bobolink,goglu.des.pres
+269,Gorgebleue à miroir,Luscinia svecica,Bluethroat,gorgebleue.a.miroir
+270,Grand-duc d'Europe,Bubo bubo,Eurasian Eagle-Owl,grand-duc.d.europe
+271,Grand Corbeau,Corvus corax,Northern Raven,grand.corbeau
+272,Grand Cormoran,Phalacrocorax carbo,Great Cormorant,grand.cormoran
+273,Grand Gravelot,Charadrius hiaticula,Common Ringed Plover,grand.gravelot
+274,Grand Héron,Ardea herodias,Great Blue Heron,grand.heron
+275,Grand Labbe,Stercorarius skua,Great Skua,grand.labbe
+276,Grand Tétras,Tetrao urogallus,Western Capercaillie,grand.tetras
+277,Grande Aigrette,Ardea alba,Great Egret,grande.aigrette
+278,Gravelot à collier interrompu,Charadrius alexandrinus,Kentish Plover,gravelot.a.collier.interrompu
+279,Gravelot de Leschenault,Charadrius leschenaultii,Greater Sand Plover,gravelot.de.leschenault
+280,Gravelot kildir,Charadrius vociferus,Killdeer,gravelot.kildir
+281,Gravelot mongol,Charadrius mongolus,Lesser Sand Plover,gravelot.mongol
+282,Gravelot pâtre,Charadrius pecuarius,Kittlitz's Plover,gravelot.patre
+283,Gravelot semipalmé,Charadrius semipalmatus,Semipalmated Plover,gravelot.semipalme
+284,Grèbe à bec bigarré,Podilymbus podiceps,Pied-billed Grebe,grebe.a.bec.bigarre
+285,Grèbe à cou noir,Podiceps nigricollis,Black-necked Grebe,grebe.a.cou.noir
+286,Grèbe castagneux,Tachybaptus ruficollis,Little Grebe,grebe.castagneux
+287,Grèbe esclavon,Podiceps auritus,Horned Grebe,grebe.esclavon
+288,Grèbe huppé,Podiceps cristatus,Great Crested Grebe,grebe.huppe
+289,Grèbe jougris,Podiceps grisegena,Red-necked Grebe,grebe.jougris
+290,Grimpereau des bois,Certhia familiaris,Eurasian Treecreeper,grimpereau.des.bois
+291,Grimpereau des jardins,Certhia brachydactyla,Short-toed Treecreeper,grimpereau.des.jardins
+292,Grive à ailes rousses,Turdus eunomus,Dusky Thrush,grive.a.ailes.rousses
+293,Grive à dos olive,Catharus ustulatus,Swainson's Thrush,grive.a.dos.olive
+294,Grive à gorge noire,Turdus atrogularis,Black-throated Thrush,grive.a.gorge.noire
+295,Grive à gorge rousse,Turdus ruficollis,Red-throated Thrush,grive.a.gorge.rousse
+296,Grive à joues grises,Catharus minimus,Grey-cheeked Thrush,grive.a.joues.grises
+297,Grive dama,Zoothera dauma,Scaly Thrush,grive.dama
+298,Grive de Naumann,Turdus naumanni,Naumann's Thrush,grive.de.naumann
+299,Grive de Sibérie,Geokichla sibirica,Siberian Thrush,grive.de.siberie
+300,Grive dorée,Zoothera aurea,White's Thrush,grive.doree
+301,Grive draine,Turdus viscivorus,Mistle Thrush,grive.draine
+302,Grive fauve,Catharus fuscescens,Veery,grive.fauve
+303,Grive litorne,Turdus pilaris,Fieldfare,grive.litorne
+304,Grive mauvis,Turdus iliacus,Redwing,grive.mauvis
+305,Grive musicienne,Turdus philomelos,Song Thrush,grive.musicienne
+306,Grive obscure,Turdus obscurus,Eyebrowed Thrush,grive.obscure
+307,Grosbec casse-noyaux,Coccothraustes coccothraustes,Hawfinch,grosbec.casse-noyaux
+308,Grue cendrée,Grus grus,Common Crane,grue.cendree
+309,Grue demoiselle,Grus virgo,Demoiselle Crane,grue.demoiselle
+310,Grue du Canada,Antigone canadensis,Sandhill Crane,grue.du.canada
+311,Guêpier d'Europe,Merops apiaster,European Bee-eater,guepier.d.europe
+312,Guêpier de Perse,Merops persicus,Blue-cheeked Bee-eater,guepier.de.perse
+313,Guifette leucoptère,Chlidonias leucopterus,White-winged Tern,guifette.leucoptere
+314,Guifette moustac,Chlidonias hybrida,Whiskered Tern,guifette.moustac
+315,Guifette noire,Chlidonias niger,Black Tern,guifette.noire
+316,Guillemot à miroir,Cepphus grylle,Black Guillemot,guillemot.a.miroir
+317,Guillemot de Brünnich,Uria lomvia,Thick-billed Murre,guillemot.de.brunnich
+318,Guillemot de Troïl,Uria aalge,Common Murre,guillemot.de.troil
+319,Gypaète barbu,Gypaetus barbatus,Bearded Vulture,gypaete.barbu
+320,Harelde boréale,Clangula hyemalis,Long-tailed Duck,harelde.boreale
+321,Harfang des neiges,Bubo scandiacus,Snowy Owl,harfang.des.neiges
+322,Harle bièvre,Mergus merganser,Common Merganser,harle.bievre
+323,Harle huppé,Mergus serrator,Red-breasted Merganser,harle.huppe
+324,Harle piette,Mergellus albellus,Smew,harle.piette
+325,Héron cendré,Ardea cinerea,Grey Heron,heron.cendre
+326,Héron garde-boeufs,Bubulcus ibis,Western Cattle Egret,heron.garde-boeufs
+327,Héron intermédiaire,Ardea intermedia,Intermediate Egret,heron.intermediaire
+328,Héron mélanocéphale,Ardea melanocephala,Black-headed Heron,heron.melanocephale
+329,Héron pourpré,Ardea purpurea,Purple Heron,heron.pourpre
+330,Héron strié,Butorides striata,Striated Heron,heron.strie
+331,Héron vert,Butorides virescens,Green Heron,heron.vert
+332,Hibou des marais,Asio flammeus,Short-eared Owl,hibou.des.marais
+333,Hibou moyen-duc,Asio otus,Long-eared Owl,hibou.moyen-duc
+334,Hirondelle à front blanc,Petrochelidon pyrrhonota,American Cliff Swallow,hirondelle.a.front.blanc
+335,Hirondelle de fenêtre,Delichon urbicum,Common House Martin,hirondelle.de.fenetre
+336,Hirondelle de rivage,Riparia riparia,Sand Martin,hirondelle.de.rivage
+337,Hirondelle de rochers,Ptyonoprogne rupestris,Eurasian Crag Martin,hirondelle.de.rochers
+338,Hirondelle paludicole,Riparia paludicola,Brown-throated Martin,hirondelle.paludicole
+339,Hirondelle rousseline,Cecropis daurica,Red-rumped Swallow,hirondelle.rousseline
+340,Hirondelle rustique,Hirundo rustica,Barn Swallow,hirondelle.rustique
+341,Huîtrier pie,Haematopus ostralegus,Eurasian Oystercatcher,huitrier.pie
+342,Huppe fasciée,Upupa epops,Eurasian Hoopoe,huppe.fasciee
+343,Hypolaïs bottée,Iduna caligata,Booted Warbler,hypolais.bottee
+344,Hypolaïs ictérine,Hippolais icterina,Icterine Warbler,hypolais.icterine
+345,Hypolaïs obscure,Iduna opaca,Western Olivaceous Warbler,hypolais.obscure
+346,Hypolaïs pâle,Iduna pallida,Eastern Olivaceous Warbler,hypolais.pale
+347,Hypolaïs polyglotte,Hippolais polyglotta,Melodious Warbler,hypolais.polyglotte
+348,Hypolaïs rama,Iduna rama,Sykes's Warbler,hypolais.rama
+349,Ibis chauve,Geronticus eremita,Northern Bald Ibis,ibis.chauve
+350,Ibis falcinelle,Plegadis falcinellus,Glossy Ibis,ibis.falcinelle
+351,Ibis sacré,Threskiornis aethiopicus,African Sacred Ibis,ibis.sacre
+352,Inséparable de Fischer,Agapornis fischeri,Fischer's Lovebird,inseparable.de.fischer
+353,Iranie à gorge blanche,Irania gutturalis,White-throated Robin,iranie.a.gorge.blanche
+354,Jaseur boréal,Bombycilla garrulus,Bohemian Waxwing,jaseur.boreal
+355,Labbe à longue queue,Stercorarius longicaudus,Long-tailed Jaeger,labbe.a.longue.queue
+356,Labbe parasite,Stercorarius parasiticus,Parasitic Jaeger,labbe.parasite
+357,Labbe pomarin,Stercorarius pomarinus,Pomarine Jaeger,labbe.pomarin
+358,Lagopède alpin,Lagopus muta,Rock Ptarmigan,lagopede.alpin
+359,Léiothrix jaune,Leiothrix lutea,Red-billed Leiothrix,leiothrix.jaune
+360,Linotte à bec jaune,Linaria flavirostris,Twite,linotte.a.bec.jaune
+361,Linotte mélodieuse,Linaria cannabina,Common Linnet,linotte.melodieuse
+362,Locustelle de Pallas,Helopsaltes certhiola,Pallas's Grasshopper Warbler,locustelle.de.pallas
+363,Locustelle fasciée,Helopsaltes fasciolatus,Gray's Grasshopper Warbler,locustelle.fasciee
+364,Locustelle fluviatile,Locustella fluviatilis,River Warbler,locustelle.fluviatile
+365,Locustelle lancéolée,Locustella lanceolata,Lanceolated Warbler,locustelle.lanceolee
+366,Locustelle luscinioïde,Locustella luscinioides,Savi's Warbler,locustelle.luscinioide
+367,Locustelle tachetée,Locustella naevia,Common Grasshopper Warbler,locustelle.tachetee
+368,Loriot d'Europe,Oriolus oriolus,Eurasian Golden Oriole,loriot.d.europe
+369,Lusciniole à moustaches,Acrocephalus melanopogon,Moustached Warbler,lusciniole.a.moustaches
+370,Macareux moine,Fratercula arctica,Atlantic Puffin,macareux.moine
+371,Macreuse à bec jaune,Melanitta americana,Black Scoter,macreuse.a.bec.jaune
+372,Macreuse à front blanc,Melanitta perspicillata,Surf Scoter,macreuse.a.front.blanc
+373,Macreuse brune,Melanitta fusca,Velvet Scoter,macreuse.brune
+374,Macreuse de Sibérie,Melanitta stejnegeri,Stejneger's Scoter,macreuse.de.siberie
+375,Macreuse noire,Melanitta nigra,Common Scoter,macreuse.noire
+376,Marouette de Baillon,Zapornia pusilla,Baillon's Crake,marouette.de.baillon
+377,Marouette de Caroline,Porzana carolina,Sora,marouette.de.caroline
+378,Marouette ponctuée,Porzana porzana,Spotted Crake,marouette.ponctuee
+379,Marouette poussin,Zapornia parva,Little Crake,marouette.poussin
+380,Martin-pêcheur d'Europe,Alcedo atthis,Common Kingfisher,martin-pecheur.d.europe
+381,Martin-pêcheur pie,Ceryle rudis,Pied Kingfisher,martin-pecheur.pie
+382,Martinet à ventre blanc,Tachymarptis melba,Alpine Swift,martinet.a.ventre.blanc
+383,Martinet cafre,Apus caffer,White-rumped Swift,martinet.cafre
+384,Martinet des maisons,Apus affinis,Little Swift,martinet.des.maisons
+385,Martinet noir,Apus apus,Common Swift,martinet.noir
+386,Martinet pâle,Apus pallidus,Pallid Swift,martinet.pale
+387,Martinet ramoneur,Chaetura pelagica,Chimney Swift,martinet.ramoneur
+388,Mergule nain,Alle alle,Little Auk,mergule.nain
+389,Merle à plastron,Turdus torquatus,Ring Ouzel,merle.a.plastron
+390,Merle noir,Turdus merula,Common Blackbird,merle.noir
+391,Mésange azurée,Cyanistes cyanus,Azure Tit,mesange.azuree
+392,Mésange bleue,Cyanistes caeruleus,Eurasian Blue Tit,mesange.bleue
+393,Mésange boréale,Poecile montanus,Willow Tit,mesange.boreale
+394,Mésange charbonnière,Parus major,Great Tit,mesange.charbonniere
+395,Mésange huppée,Lophophanes cristatus,Crested Tit,mesange.huppee
+396,Mésange noire,Periparus ater,Coal Tit,mesange.noire
+397,Mésange nonnette,Poecile palustris,Marsh Tit,mesange.nonnette
+398,Milan noir,Milvus migrans,Black Kite,milan.noir
+399,Milan royal,Milvus milvus,Red Kite,milan.royal
+400,Moineau cisalpin,Passer italiae,Italian Sparrow,moineau.cisalpin
+401,Moineau domestique,Passer domesticus,House Sparrow,moineau.domestique
+402,Moineau espagnol,Passer hispaniolensis,Spanish Sparrow,moineau.espagnol
+403,Moineau friquet,Passer montanus,Eurasian Tree Sparrow,moineau.friquet
+404,Moineau soulcie,Petronia petronia,Rock Sparrow,moineau.soulcie
+405,Monticole bleu,Monticola solitarius,Blue Rock Thrush,monticole.bleu
+406,Monticole de roche,Monticola saxatilis,Common Rock Thrush,monticole.de.roche
+407,Mouette atricille,Leucophaeus atricilla,Laughing Gull,mouette.atricille
+408,Mouette blanche,Pagophila eburnea,Ivory Gull,mouette.blanche
+409,Mouette de Bonaparte,Chroicocephalus philadelphia,Bonaparte's Gull,mouette.de.bonaparte
+410,Mouette de Franklin,Leucophaeus pipixcan,Franklin's Gull,mouette.de.franklin
+411,Mouette de Ross,Rhodostethia rosea,Ross's Gull,mouette.de.ross
+412,Mouette de Sabine,Xema sabini,Sabine's Gull,mouette.de.sabine
+413,Mouette mélanocéphale,Ichthyaetus melanocephalus,Mediterranean Gull,mouette.melanocephale
+414,Mouette pygmée,Hydrocoloeus minutus,Little Gull,mouette.pygmee
+415,Mouette rieuse,Chroicocephalus ridibundus,Black-headed Gull,mouette.rieuse
+416,Mouette tridactyle,Rissa tridactyla,Black-legged Kittiwake,mouette.tridactyle
+417,Nette rousse,Netta rufina,Red-crested Pochard,nette.rousse
+418,Niverolle alpine,Montifringilla nivalis,White-winged Snowfinch,niverolle.alpine
+419,Océanite culblanc,Hydrobates leucorhous,Leach's Storm Petrel,oceanite.culblanc
+420,Océanite de Castro,Hydrobates castro,Band-rumped Storm Petrel,oceanite.de.castro
+421,Océanite de Swinhoe,Hydrobates monorhis,Swinhoe's Storm Petrel,oceanite.de.swinhoe
+422,Océanite de Wilson,Oceanites oceanicus,Wilson's Storm Petrel,oceanite.de.wilson
+423,Océanite tempête,Hydrobates pelagicus,European Storm Petrel,oceanite.tempete
+424,Oedicnème criard,Burhinus oedicnemus,Eurasian Stone-curlew,oedicneme.criard
+425,Oie à bec court,Anser brachyrhynchus,Pink-footed Goose,oie.a.bec.court
+426,Oie cendrée,Anser anser,Greylag Goose,oie.cendree
+427,Oie de la toundra,Anser serrirostris,Tundra Bean Goose,oie.de.la.toundra
+428,Oie des moissons,Anser fabalis,Taiga Bean Goose,oie.des.moissons
+429,Oie des neiges,Anser caerulescens,Snow Goose,oie.des.neiges
+430,Oie naine,Anser erythropus,Lesser White-fronted Goose,oie.naine
+431,Oie rieuse,Anser albifrons,Greater White-fronted Goose,oie.rieuse
+432,Orite à longue queue,Aegithalos caudatus,Long-tailed Tit,orite.a.longue.queue
+433,Ouette d'Égypte,Alopochen aegyptiaca,Egyptian Goose,ouette.d.egypte
+434,Outarde barbue,Otis tarda,Great Bustard,outarde.barbue
+435,Outarde canepetière,Tetrax tetrax,Little Bustard,outarde.canepetiere
+436,Outarde de Macqueen,Chlamydotis macqueenii,Macqueen's Bustard,outarde.de.macqueen
+437,Panure à moustaches,Panurus biarmicus,Bearded Reedling,panure.a.moustaches
+438,Paruline à collier,Setophaga americana,Northern Parula,paruline.a.collier
+439,Paruline à flancs marron,Setophaga pensylvanica,Chestnut-sided Warbler,paruline.a.flancs.marron
+440,Paruline à gorge orangée,Setophaga fusca,Blackburnian Warbler,paruline.a.gorge.orangee
+441,Paruline couronnée,Seiurus aurocapilla,Ovenbird,paruline.couronnee
+442,Paruline des ruisseaux,Parkesia noveboracensis,Northern Waterthrush,paruline.des.ruisseaux
+443,Paruline flamboyante,Setophaga ruticilla,American Redstart,paruline.flamboyante
+444,Paruline jaune,Setophaga petechia,Mangrove Warbler,paruline.jaune
+445,Paruline noir et blanc,Mniotilta varia,Black-and-white Warbler,paruline.noir.et.blanc
+446,Paruline rayée,Setophaga striata,Blackpoll Warbler,paruline.rayee
+447,Pélican blanc,Pelecanus onocrotalus,Great White Pelican,pelican.blanc
+448,Pélican frisé,Pelecanus crispus,Dalmatian Pelican,pelican.frise
+449,Percnoptère d'Égypte,Neophron percnopterus,Egyptian Vulture,percnoptere.d.egypte
+450,Perdrix bartavelle,Alectoris graeca,Rock Partridge,perdrix.bartavelle
+451,Perdrix choukar,Alectoris chukar,Chukar Partridge,perdrix.choukar
+452,Perdrix gambra,Alectoris barbara,Barbary Partridge,perdrix.gambra
+453,Perdrix grise,Perdix perdix,Grey Partridge,perdrix.grise
+454,Perdrix rouge,Alectoris rufa,Red-legged Partridge,perdrix.rouge
+455,Perriche veuve,Myiopsitta monachus,Monk Parakeet,perriche.veuve
+456,Perruche à collier,Psittacula krameri,Rose-ringed Parakeet,perruche.a.collier
+457,Petit-duc scops,Otus scops,Eurasian Scops Owl,petit-duc.scops
+458,Petit Gravelot,Charadrius dubius,Little Ringed Plover,petit.gravelot
+459,Pétrel de Bulwer,Bulweria bulwerii,Bulwer's Petrel,petrel.de.bulwer
+460,Pétrel gongon,Pterodroma feae,Fea's Petrel,petrel.gongon
+461,Phalarope à bec étroit,Phalaropus lobatus,Red-necked Phalarope,phalarope.a.bec.etroit
+462,Phalarope à bec large,Phalaropus fulicarius,Red Phalarope,phalarope.a.bec.large
+463,Phalarope de Wilson,Phalaropus tricolor,Wilson's Phalarope,phalarope.de.wilson
+464,Phragmite aquatique,Acrocephalus paludicola,Aquatic Warbler,phragmite.aquatique
+465,Phragmite des joncs,Acrocephalus schoenobaenus,Sedge Warbler,phragmite.des.joncs
+466,Pic à dos blanc,Dendrocopos leucotos,White-backed Woodpecker,pic.a.dos.blanc
+467,Pic cendré,Picus canus,Grey-headed Woodpecker,pic.cendre
+468,Pic de Sharpe,Picus sharpei,Iberian Green Woodpecker,pic.de.sharpe
+469,Pic épeiche,Dendrocopos major,Great Spotted Woodpecker,pic.epeiche
+470,Pic épeichette,Dryobates minor,Lesser Spotted Woodpecker,pic.epeichette
+471,Pic mar,Dendrocoptes medius,Middle Spotted Woodpecker,pic.mar
+472,Pic noir,Dryocopus martius,Black Woodpecker,pic.noir
+473,Pic tridactyle,Picoides tridactylus,Eurasian Three-toed Woodpecker,pic.tridactyle
+474,Pic vert,Picus viridis,European Green Woodpecker,pic.vert
+475,Pie-grièche à poitrine rose,Lanius minor,Lesser Grey Shrike,pie-grieche.a.poitrine.rose
+476,Pie-grièche à tête rousse,Lanius senator,Woodchat Shrike,pie-grieche.a.tete.rousse
+477,Pie-grièche brune,Lanius cristatus,Brown Shrike,pie-grieche.brune
+478,Pie-grièche du Turkestan,Lanius phoenicuroides,Red-tailed Shrike,pie-grieche.du.turkestan
+479,Pie-grièche écorcheur,Lanius collurio,Red-backed Shrike,pie-grieche.ecorcheur
+480,Pie-grièche grise,Lanius excubitor,Great Grey Shrike,pie-grieche.grise
+481,Pie-grièche isabelle,Lanius isabellinus,Isabelline Shrike,pie-grieche.isabelle
+482,Pie-grièche masquée,Lanius nubicus,Masked Shrike,pie-grieche.masquee
+483,Pie-grièche méridionale,Lanius meridionalis,Iberian Grey Shrike,pie-grieche.meridionale
+484,Pie bavarde,Pica pica,Eurasian Magpie,pie.bavarde
+485,Pigeon biset,Columba livia,Rock Dove,pigeon.biset
+486,Pigeon colombin,Columba oenas,Stock Dove,pigeon.colombin
+487,Pigeon ramier,Columba palumbus,Common Wood Pigeon,pigeon.ramier
+488,Pingouin torda,Alca torda,Razorbill,pingouin.torda
+489,Pinson des arbres,Fringilla coelebs,Common Chaffinch,pinson.des.arbres
+490,Pinson du Nord,Fringilla montifringilla,Brambling,pinson.du.nord
+491,Pipit à dos olive,Anthus hodgsoni,Olive-backed Pipit,pipit.a.dos.olive
+492,Pipit à gorge rousse,Anthus cervinus,Red-throated Pipit,pipit.a.gorge.rousse
+493,Pipit de Godlewski,Anthus godlewskii,Blyth's Pipit,pipit.de.godlewski
+494,Pipit de la Petchora,Anthus gustavi,Pechora Pipit,pipit.de.la.petchora
+495,Pipit de Richard,Anthus richardi,Richard's Pipit,pipit.de.richard
+496,Pipit des arbres,Anthus trivialis,Tree Pipit,pipit.des.arbres
+497,Pipit farlousane,Anthus rubescens,Buff-bellied Pipit,pipit.farlousane
+498,Pipit farlouse,Anthus pratensis,Meadow Pipit,pipit.farlouse
+499,Pipit maritime,Anthus petrosus,European Rock Pipit,pipit.maritime
+500,Pipit rousseline,Anthus campestris,Tawny Pipit,pipit.rousseline
+501,Pipit spioncelle,Anthus spinoletta,Water Pipit,pipit.spioncelle
+502,Plongeon à bec blanc,Gavia adamsii,Yellow-billed Loon,plongeon.a.bec.blanc
+503,Plongeon arctique,Gavia arctica,Black-throated Loon,plongeon.arctique
+504,Plongeon catmarin,Gavia stellata,Red-throated Loon,plongeon.catmarin
+505,Plongeon imbrin,Gavia immer,Common Loon,plongeon.imbrin
+506,Pluvier argenté,Pluvialis squatarola,Grey Plover,pluvier.argente
+507,Pluvier asiatique,Charadrius asiaticus,Caspian Plover,pluvier.asiatique
+508,Pluvier bronzé,Pluvialis dominica,American Golden Plover,pluvier.bronze
+509,Pluvier doré,Pluvialis apricaria,European Golden Plover,pluvier.dore
+510,Pluvier fauve,Pluvialis fulva,Pacific Golden Plover,pluvier.fauve
+511,Pluvier guignard,Charadrius morinellus,Eurasian Dotterel,pluvier.guignard
+512,Pouillot à deux barres,Phylloscopus plumbeitarsus,Two-barred Warbler,pouillot.a.deux.barres
+513,Pouillot à grands sourcils,Phylloscopus inornatus,Yellow-browed Warbler,pouillot.a.grands.sourcils
+514,Pouillot boréal,Phylloscopus borealis,Arctic Warbler,pouillot.boreal
+515,Pouillot brun,Phylloscopus fuscatus,Dusky Warbler,pouillot.brun
+516,Pouillot de Bonelli,Phylloscopus bonelli,Western Bonelli's Warbler,pouillot.de.bonelli
+517,Pouillot de Hume,Phylloscopus humei,Hume's Leaf Warbler,pouillot.de.hume
+518,Pouillot de Pallas,Phylloscopus proregulus,Pallas's Leaf Warbler,pouillot.de.pallas
+519,Pouillot de Schwarz,Phylloscopus schwarzi,Radde's Warbler,pouillot.de.schwarz
+520,Pouillot de Temminck,Phylloscopus coronatus,Eastern Crowned Warbler,pouillot.de.temminck
+521,Pouillot fitis,Phylloscopus trochilus,Willow Warbler,pouillot.fitis
+522,Pouillot ibérique,Phylloscopus ibericus,Iberian Chiffchaff,pouillot.iberique
+523,Pouillot oriental,Phylloscopus orientalis,Eastern Bonelli's Warbler,pouillot.oriental
+524,Pouillot siffleur,Phylloscopus sibilatrix,Wood Warbler,pouillot.siffleur
+525,Pouillot véloce,Phylloscopus collybita,Common Chiffchaff,pouillot.veloce
+526,Pouillot verdâtre,Phylloscopus trochiloides,Greenish Warbler,pouillot.verdatre
+527,Puffin à bec grêle,Ardenna tenuirostris,Short-tailed Shearwater,puffin.a.bec.grele
+528,Puffin boréal,Calonectris borealis,Cory's Shearwater,puffin.boreal
+529,Puffin de Macaronésie,Puffinus baroli,Barolo Shearwater,puffin.de.macaronesie
+530,Puffin de Scopoli,Calonectris diomedea,Scopoli's Shearwater,puffin.de.scopoli
+531,Puffin des Anglais,Puffinus puffinus,Manx Shearwater,puffin.des.anglais
+532,Puffin des Baléares,Puffinus mauretanicus,Balearic Shearwater,puffin.des.baleares
+533,Puffin fuligineux,Ardenna grisea,Sooty Shearwater,puffin.fuligineux
+534,Puffin majeur,Ardenna gravis,Great Shearwater,puffin.majeur
+535,Puffin yelkouan,Puffinus yelkouan,Yelkouan Shearwater,puffin.yelkouan
+536,Pygargue à queue blanche,Haliaeetus albicilla,White-tailed Eagle,pygargue.a.queue.blanche
+537,Râle d'eau,Rallus aquaticus,Water Rail,rale.d.eau
+538,Râle des genêts,Crex crex,Corn Crake,rale.des.genets
+539,Rémiz penduline,Remiz pendulinus,Eurasian Penduline Tit,remiz.penduline
+540,Robin à flancs roux,Tarsiger cyanurus,Red-flanked Bluetail,robin.a.flancs.roux
+541,Roitelet huppé,Regulus regulus,Goldcrest,roitelet.huppe
+542,Roitelet triple-bandeau,Regulus ignicapilla,Common Firecrest,roitelet.triple-bandeau
+543,Rollier d'Europe,Coracias garrulus,European Roller,rollier.d.europe
+544,Roselin cramoisi,Carpodacus erythrinus,Common Rosefinch,roselin.cramoisi
+545,Roselin githagine,Bucanetes githagineus,Trumpeter Finch,roselin.githagine
+546,Rossignol philomèle,Luscinia megarhynchos,Common Nightingale,rossignol.philomele
+547,Rossignol progné,Luscinia luscinia,Thrush Nightingale,rossignol.progne
+548,Rougegorge familier,Erithacus rubecula,European Robin,rougegorge.familier
+549,Rougequeue à front blanc,Phoenicurus phoenicurus,Common Redstart,rougequeue.a.front.blanc
+550,Rougequeue de Moussier,Phoenicurus moussieri,Moussier's Redstart,rougequeue.de.moussier
+551,Rougequeue noir,Phoenicurus ochruros,Black Redstart,rougequeue.noir
+552,Rousserolle des buissons,Acrocephalus dumetorum,Blyth's Reed Warbler,rousserolle.des.buissons
+553,Rousserolle effarvatte,Acrocephalus scirpaceus,Common Reed Warbler,rousserolle.effarvatte
+554,Rousserolle isabelle,Acrocephalus agricola,Paddyfield Warbler,rousserolle.isabelle
+555,Rousserolle turdoïde,Acrocephalus arundinaceus,Great Reed Warbler,rousserolle.turdoide
+556,Rousserolle verderolle,Acrocephalus palustris,Marsh Warbler,rousserolle.verderolle
+557,Sarcelle à ailes bleues,Spatula discors,Blue-winged Teal,sarcelle.a.ailes.bleues
+558,Sarcelle à ailes vertes,Anas carolinensis,Green-winged Teal,sarcelle.a.ailes.vertes
+559,Sarcelle d'été,Spatula querquedula,Garganey,sarcelle.d.ete
+560,Sarcelle d'hiver,Anas crecca,Eurasian Teal,sarcelle.d.hiver
+561,Sarcelle élégante,Sibirionetta formosa,Baikal Teal,sarcelle.elegante
+562,Sarcelle marbrée,Marmaronetta angustirostris,Marbled Duck,sarcelle.marbree
+563,Serin cini,Serinus serinus,European Serin,serin.cini
+564,Sirli de Dupont,Chersophilus duponti,Dupont's Lark,sirli.de.dupont
+565,Sittelle corse,Sitta whiteheadi,Corsican Nuthatch,sittelle.corse
+566,Sittelle torchepot,Sitta europaea,Eurasian Nuthatch,sittelle.torchepot
+567,Sizerin blanchâtre,Acanthis hornemanni,Arctic Redpoll,sizerin.blanchatre
+568,Sizerin cabaret,Acanthis cabaret,Lesser Redpoll,sizerin.cabaret
+569,Sizerin flammé,Acanthis flammea,Common Redpoll,sizerin.flamme
+570,Spatule blanche,Platalea leucorodia,Eurasian Spoonbill,spatule.blanche
+571,Sterne à dos pâle,Thalasseus albididorsalis,West African Crested Tern,sterne.a.dos.pale
+572,Sterne arctique,Sterna paradisaea,Arctic Tern,sterne.arctique
+573,Sterne bridée,Onychoprion anaethetus,Bridled Tern,sterne.bridee
+574,Sterne caspienne,Hydroprogne caspia,Caspian Tern,sterne.caspienne
+575,Sterne caugek,Thalasseus sandvicensis,Sandwich Tern,sterne.caugek
+576,Sterne de Dougall,Sterna dougallii,Roseate Tern,sterne.de.dougall
+577,Sterne de Forster,Sterna forsteri,Forster's Tern,sterne.de.forster
+578,Sterne élégante,Thalasseus elegans,Elegant Tern,sterne.elegante
+579,Sterne fuligineuse,Onychoprion fuscatus,Sooty Tern,sterne.fuligineuse
+580,Sterne hansel,Gelochelidon nilotica,Gull-billed Tern,sterne.hansel
+581,Sterne naine,Sternula albifrons,Little Tern,sterne.naine
+582,Sterne pierregarin,Sterna hirundo,Common Tern,sterne.pierregarin
+583,Sterne royale,Thalasseus maximus,Royal Tern,sterne.royale
+584,Sterne voyageuse,Thalasseus bengalensis,Lesser Crested Tern,sterne.voyageuse
+585,Syrrhapte paradoxal,Syrrhaptes paradoxus,Pallas's Sandgrouse,syrrhapte.paradoxal
+586,Tadorne casarca,Tadorna ferruginea,Ruddy Shelduck,tadorne.casarca
+587,Tadorne de Belon,Tadorna tadorna,Common Shelduck,tadorne.de.belon
+588,Talève d'Allen,Porphyrio alleni,Allen's Gallinule,taleve.d.allen
+589,Talève sultane,Porphyrio porphyrio,Western Swamphen,taleve.sultane
+590,Tangara écarlate,Piranga olivacea,Scarlet Tanager,tangara.ecarlate
+591,Tarier africain,Saxicola torquatus,African Stonechat,tarier.africain
+592,Tarier de Sibérie,Saxicola maurus,Siberian Stonechat,tarier.de.siberie
+593,Tarier des prés,Saxicola rubetra,Whinchat,tarier.des.pres
+594,Tarier pâtre,Saxicola rubicola,European Stonechat,tarier.patre
+595,Tarin des aulnes,Spinus spinus,Eurasian Siskin,tarin.des.aulnes
+596,Tétras lyre,Lyrurus tetrix,Black Grouse,tetras.lyre
+597,Tichodrome échelette,Tichodroma muraria,Wallcreeper,tichodrome.echelette
+598,Torcol fourmilier,Jynx torquilla,Eurasian Wryneck,torcol.fourmilier
+599,Tournepierre à collier,Arenaria interpres,Ruddy Turnstone,tournepierre.a.collier
+600,Tourterelle des bois,Streptopelia turtur,European Turtle Dove,tourterelle.des.bois
+601,Tourterelle orientale,Streptopelia orientalis,Oriental Turtle Dove,tourterelle.orientale
+602,Tourterelle turque,Streptopelia decaocto,Eurasian Collared Dove,tourterelle.turque
+603,Traquet à tête blanche,Oenanthe leucopyga,White-crowned Wheatear,traquet.a.tete.blanche
+604,Traquet de Seebohm,Oenanthe seebohmi,Atlas Wheatear,traquet.de.seebohm
+605,Traquet du désert,Oenanthe deserti,Desert Wheatear,traquet.du.desert
+606,Traquet isabelle,Oenanthe isabellina,Isabelline Wheatear,traquet.isabelle
+607,Traquet kurde,Oenanthe xanthoprymna,Kurdish Wheatear,traquet.kurde
+608,Traquet motteux,Oenanthe oenanthe,Northern Wheatear,traquet.motteux
+609,Traquet noir et blanc,Oenanthe melanoleuca,Eastern Black-eared Wheatear,traquet.noir.et.blanc
+610,Traquet oreillard,Oenanthe hispanica,Western Black-eared Wheatear,traquet.oreillard
+611,Traquet pie,Oenanthe pleschanka,Pied Wheatear,traquet.pie
+612,Traquet rieur,Oenanthe leucura,Black Wheatear,traquet.rieur
+613,Troglodyte mignon,Troglodytes troglodytes,Eurasian Wren,troglodyte.mignon
+614,Turnix mugissant,Turnix sylvaticus,Common Buttonquail,turnix.mugissant
+615,Vacher à tête brune,Molothrus ater,Brown-headed Cowbird,vacher.a.tete.brune
+616,Vanneau à queue blanche,Vanellus leucurus,White-tailed Lapwing,vanneau.a.queue.blanche
+617,Vanneau éperonné,Vanellus spinosus,Spur-winged Lapwing,vanneau.eperonne
+618,Vanneau huppé,Vanellus vanellus,Northern Lapwing,vanneau.huppe
+619,Vanneau sociable,Vanellus gregarius,Sociable Lapwing,vanneau.sociable
+620,Vautour de Rüppell,Gyps rueppelli,Rüppell's Vulture,vautour.de.ruppell
+621,Vautour fauve,Gyps fulvus,Griffon Vulture,vautour.fauve
+622,Vautour moine,Aegypius monachus,Cinereous Vulture,vautour.moine
+623,Vautour oricou,Torgos tracheliotos,Lappet-faced Vulture,vautour.oricou
+624,Venturon corse,Carduelis corsicana,Corsican Finch,venturon.corse
+625,Venturon montagnard,Carduelis citrinella,Citril Finch,venturon.montagnard
+626,Verdier d'Europe,Chloris chloris,European Greenfinch,verdier.d.europe
+627,Viréo à oeil rouge,Vireo olivaceus,Red-eyed Vireo,vireo.a.oeil.rouge
