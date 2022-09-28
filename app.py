@@ -41,7 +41,7 @@ class_names = np.load('artifacts/class_names.npy')
 fr_species_csv = pd.read_csv('artifacts/fr_species.csv')
 
 if img_file:
-    img = Image.open(img_file)
+    img = Image.open(img_file).convert('RGB')
     cropped_img = st_cropper(img, realtime_update=True, box_color='#0000FF', aspect_ratio=None)
     cropped_img = transform(cropped_img).to(device).unsqueeze(0)
 
