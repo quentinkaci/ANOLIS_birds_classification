@@ -6,6 +6,9 @@ import torch
 import torchvision
 import pandas as pd
 
+PAGE_CONFIG = {"page_title": "ANOLIS - Classification oiseaux"}
+st.set_page_config(**PAGE_CONFIG)
+
 st.header("Classification d'oiseaux français")
 
 img_file = st.file_uploader(label='Charger un fichier', type=['png', 'jpg'])
@@ -40,9 +43,7 @@ fr_species_csv = pd.read_csv('artifacts/fr_species.csv')
 if img_file:
     img = Image.open(img_file)
     cropped_img = st_cropper(img, realtime_update=True, box_color='#0000FF', aspect_ratio=None)
-    cropped_img = transform(cropped_img)
-    cropped_img = cropped_img.to(device)
-    cropped_img = cropped_img.unsqueeze(0)
+    cropped_img = transform(cropped_img).to(device).unsqueeze(0)
 
     with torch.no_grad():
         output = model(cropped_img)
@@ -51,4 +52,4 @@ if img_file:
     scores, preds = output.topk(3, 1, True, True)
     for score, pred in zip(scores[0], preds[0]):
         fr_species_name = fr_species_csv[fr_species_csv['id'] == class_names[pred]]['french'].item()
-        st.write(f'L\'image est classifiée en tant que {fr_species_name} à {100 * score.item():0.2f}\%')
+        st.write(f'L\'image est classifiée en tant que [{fr_species_name}](https://www.oiseaux.net/oiseaux/{class_names[pred]}.html) à {100 * score.item():0.2f}\%')
